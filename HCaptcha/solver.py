@@ -3,6 +3,8 @@ HCaptcha bypass made by yours truly dropout.
 
 Credits:
     _get_hsl: https://github.com/h0nde/py-hcaptcha/blob/main/hcaptcha/temp.py#L42
+    
+    inital bypass: duckster, sorry I forgot you :giggles:
 """
 
 import json
